@@ -1,0 +1,6 @@
+framework module Pods_SuperHero {
+  umbrella header "Pods-SuperHero-umbrella.h"
+
+  export *
+  module * { export * }
+}

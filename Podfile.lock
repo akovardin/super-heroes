@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - URLImage (0.9.15)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - URLImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - URLImage
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  URLImage: 1adef9b81f071fc2fc13a1a87ff882c0a694d48b
+
+PODFILE CHECKSUM: e309dd4566de29f1bbf73ed77d17fb4e6a8e94eb
+
+COCOAPODS: 1.9.3
